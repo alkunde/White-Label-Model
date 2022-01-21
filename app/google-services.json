@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "300870773008",
+    "project_id": "white-label-tutorial-fb339",
+    "storage_bucket": "white-label-tutorial-fb339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300870773008:android:193f503b232e137fa79d95",
+        "android_client_info": {
+          "package_name": "br.com.mobiletkbrazil.whitelabeltutorial.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyR_oEgHmQtzD5jxj731nvvu6_lrLZq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300870773008:android:9df7d371ad6ef297a79d95",
+        "android_client_info": {
+          "package_name": "br.com.mobiletkbrazil.whitelabeltutorial.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyR_oEgHmQtzD5jxj731nvvu6_lrLZq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300870773008:android:9f587b0f43ca31e5a79d95",
+        "android_client_info": {
+          "package_name": "br.com.mobiletkbrazil.whitelabeltutorial.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyR_oEgHmQtzD5jxj731nvvu6_lrLZq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300870773008:android:62a040e3aba61580a79d95",
+        "android_client_info": {
+          "package_name": "br.com.mobiletkbrazil.whitelabeltutorial.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyR_oEgHmQtzD5jxj731nvvu6_lrLZq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300870773008-mfhljfs6ogoedbu6u62ap3rl36icasr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
